@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.32112.339
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MDICRUD", "MDICRUD\MDICRUD.csproj", "{91BB495F-993D-4A30-9466-6303731FE53A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MDICRUD", "MDICRUD\MDICRUD.csproj", "{91BB495F-993D-4A30-9466-6303731FE53A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "DAL\DAL.csproj", "{AD4C498A-C96B-4D57-A843-036E184AD11F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{91BB495F-993D-4A30-9466-6303731FE53A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{91BB495F-993D-4A30-9466-6303731FE53A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{91BB495F-993D-4A30-9466-6303731FE53A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD4C498A-C96B-4D57-A843-036E184AD11F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD4C498A-C96B-4D57-A843-036E184AD11F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD4C498A-C96B-4D57-A843-036E184AD11F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD4C498A-C96B-4D57-A843-036E184AD11F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

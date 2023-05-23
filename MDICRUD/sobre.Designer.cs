@@ -73,9 +73,10 @@
             this.label1.Font = new System.Drawing.Font("Segoe UI", 16F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.label1.Location = new System.Drawing.Point(454, 352);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(267, 30);
+            this.label1.Size = new System.Drawing.Size(238, 30);
             this.label1.TabIndex = 3;
-            this.label1.Text = "Guilherme de Melo Nunes";
+            this.label1.Text = "Italo Bernardino Santos";
+            this.label1.Click += new System.EventHandler(this.label1_Click);
             // 
             // sobre
             // 
